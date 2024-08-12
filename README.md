@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sudhirup72
 - 👀 I’m interested in Linux || AWS || DEVOPS
 - 🌱 I’m currently learning How to work Linux.
-- 💞️ I’m looking to a job in Linux Administrator.
+- 💞️ I’m looking for a job in Linux Administrator.
 - 📫 How to reach me this is my linkedin profile link https://www.linkedin.com/in/sudhir-singh-646688232
 
 <!---
